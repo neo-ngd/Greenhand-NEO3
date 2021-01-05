@@ -104,16 +104,16 @@ Because NeoVM is more compact, we can only compile limited C#/dotnet features in
 
 NeoVM provides the following types：
 
--`Array`
--`Boolean`
--`Buffer`
--`ByteString`
--`Integer`
--`InteropInterface`
--`Map`
--`Null`
--`Pointer`
--`Struct`
+-   `Array`
+-   `Boolean`
+-   `Buffer`
+-   `ByteString`
+-   `Integer`
+-   `InteropInterface`
+-   `Map`
+-   `Null`
+-   `Pointer`
+-   `Struct`
 
 The basic types of C# are:
 
